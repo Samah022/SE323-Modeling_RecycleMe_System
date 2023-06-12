@@ -1,5 +1,6 @@
 # SE323-Modeling_RecycleMe_System
 
+<p align="justify">
 This system will be in the form of a mobile app that will be available to those who live 
 in Medina. Using this system, materials can be easily recycled from reputable sources. 
 The customer can place recycling orders and earn points for their transactions. Later, 
@@ -11,3 +12,4 @@ to add the offers that will be exchanged with points by customers and generate a
 about the app's statistics. For the application's delivery representative, the drivers will 
 be able to pick up customers' orders to start the recycling life of the materials added by 
 customers.
+</p>
