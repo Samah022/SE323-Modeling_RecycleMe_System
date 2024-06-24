@@ -1,12 +1,21 @@
-# RecycleMe System ♻️🌍
+# RecycleMe - Recycling Portal for Unwanted Items ♻️🌍
 
-<p align="justify">
-This system will be in the form of a mobile app available to residents of Medina. Users can easily recycle materials from reputable sources, place recycling orders, and earn points for transactions. Points can be exchanged for offers, motivating users and raising awareness about environmental impact through a leaderboard. Admin features include adding exchange offers and generating app statistics. Delivery representatives can pick up orders to kickstart the recycling process for added materials.
-</p>
+## Overview
 
-#### Contributors ✍️
+This project is a part of the Software Process and Modeling course. It covers the initial phases of the Software Development Life Cycle (SDLC), focusing on requirements gathering and design. The RecycleMe app aims to solve real-life problems by making recycling convenient and rewarding for users in Medina, fostering a sustainable future.
 
-- Sana Shamma
-- Salwa Shama
-- Samah Shama
-- Jana Aldubai
+**RecycleMe** is a mobile application designed to facilitate recycling in Medina. It enables users to recycle materials easily, earn points for their contributions, and exchange these points for rewards. The application also features a leaderboard to promote healthy competition and raise environmental awareness.
+
+## System Objectives 🌱
+
+- **Promote Recycling**: Encourage sustainable practices by making recycling a part of users' lifestyles.
+- **Reward System**: Offer financial incentives through a points system and recycling discounts.
+- **Social Awareness**: Increase environmental consciousness via a leaderboard showcasing users' positive impacts.
+
+## Contributors ✍️
+
+  - Fatima Aljalmoud
+  - Jana Aldubai
+  - Salwa Shamma
+  - Samah Shamma
+  - Sana Shmama
