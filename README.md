@@ -2,20 +2,20 @@
 
 ## Overview
 
-This project is a part of the Software Process and Modeling course. It covers the initial phases of the Software Development Life Cycle (SDLC), focusing on requirements gathering and design. The RecycleMe app aims to solve real-life problems by making recycling convenient and rewarding for users in Medina, fostering a sustainable future.
+This project is part of the Software Process and Modeling course, focusing on requirements gathering and design within the Software Development Life Cycle (SDLC). 
 
-**RecycleMe** is a mobile application designed to facilitate recycling in Medina. It enables users to recycle materials easily, earn points for their contributions, and exchange these points for rewards. The application also features a leaderboard to promote healthy competition and raise environmental awareness.
+The **RecycleMe** mobile application aims to solve real-life problems by making recycling convenient and rewarding for users. It is designed to facilitate recycling in Medina, fostering a sustainable future. The app enables users to recycle materials easily, earn points for their contributions, and exchange these points for rewards. Additionally, it features a leaderboard to promote healthy competition and raise environmental awareness.
 
 ## System Objectives 🌱
 
-- **Promote Recycling**: Encourage sustainable practices by making recycling a part of users' lifestyles.
-- **Reward System**: Offer financial incentives through a points system and recycling discounts.
-- **Social Awareness**: Increase environmental consciousness via a leaderboard showcasing users' positive impacts.
+- **Promote Recycling**: Encourage sustainable practices by integrating recycling into users' lifestyles.
+- **Reward System**: Provide financial incentives through a points system and recycling discounts.
+- **Social Awareness**: Raise environmental consciousness through a leaderboard highlighting users' positive impacts.
 
 ## Contributors ✍️
 
-  - Fatima Aljalmoud
-  - Jana Aldubai
-  - Salwa Shamma
-  - Samah Shamma
-  - Sana Shmama
+- Fatima Aljalmoud
+- Jana Aldubai
+- Salwa Shamma
+- Samah Shamma
+- Sana Shmama
