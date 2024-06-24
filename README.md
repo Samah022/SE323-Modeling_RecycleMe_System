@@ -1,15 +1,12 @@
-# SE323-Modeling_RecycleMe_System
+# RecycleMe System ♻️🌍
 
 <p align="justify">
-This system will be in the form of a mobile app that will be available to those who live 
-in Medina. Using this system, materials can be easily recycled from reputable sources. 
-The customer can place recycling orders and earn points for their transactions. Later, 
-these points will be checked in the system and exchanged for offers. Besides, the 
-customers will be able to see their levels on the leaderboard, in addition to their positive 
-influence on the environment, which will raise people's social awareness and make it 
-easier for them to achieve a high-quality environment. Further, the admin will be able 
-to add the offers that will be exchanged with points by customers and generate a report 
-about the app's statistics. For the application's delivery representative, the drivers will 
-be able to pick up customers' orders to start the recycling life of the materials added by 
-customers.
+This system will be in the form of a mobile app available to residents of Medina. Users can easily recycle materials from reputable sources, place recycling orders, and earn points for transactions. Points can be exchanged for offers, motivating users and raising awareness about environmental impact through a leaderboard. Admin features include adding exchange offers and generating app statistics. Delivery representatives can pick up orders to kickstart the recycling process for added materials.
 </p>
+
+#### Contributors ✍️
+
+- Sana Shamma
+- Salwa Shama
+- Samah Shama
+- Jana Aldubai
